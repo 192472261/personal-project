@@ -1,4 +1,4 @@
 # personal-project
 
-module1 completed
+module1 and module2 completed
 
